@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/rosmeltd/page404/blob/d76c08c59e8f84a7605a3b56944fca483f18251c/img/Scarecrow.png?raw=true)
+![screenshot](https://github.com/rosmeltd/page404/blob/main/img/Screenshot.png?raw=true)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
